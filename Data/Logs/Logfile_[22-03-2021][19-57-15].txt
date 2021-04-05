@@ -1,0 +1,8 @@
+Instagrab Bot Starts at [22/03/2021][19:57:15]=============
+Attempting to Read Target Account
+Read file Successfully=============
+Attempting to Login to User Account
+Login to User Account Successfully=============
+Attempting to Get Cookies
+Get Cookies Successfully=============
+Checking Target Account

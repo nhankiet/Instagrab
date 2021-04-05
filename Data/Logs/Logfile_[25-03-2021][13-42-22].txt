@@ -1,0 +1,18 @@
+Instagrab Bot Starts at [25/03/2021][13:42:22]=============
+Attempting to Read Target Account
+Read file Successfully=============
+Attempting to Login to User Account
+Login to User Account Successfully=============
+Attempting to Get Cookies
+Get Cookies Successfully=============
+Checking Target Account
+Checking Target Sucessfully=============
+Downloading Target Account cristiano in progress...
+Downloading Target Account cristiano Sucessfully=============
+Downloading Target Account blizzheroes in progress...
+Downloading Target Account blizzheroes Sucessfully=============
+Downloading Target Account lamborghini in progress...
+Downloading Target Account lamborghini Sucessfully=============
+Attempting to Log out User Account
+Attempting to Log out User Account Sucessfully=============
+Instagrab Bot Finished at [25/03/2021][13:45:20]
